@@ -12,7 +12,7 @@
 	</parent>
 	<!-- Parent Information End -->
 	<!-- Project Information Start -->
-	<groupId>reptorEngine</groupId>
+	<groupId>raptorEngine</groupId>
 	<artifactId>expenseReportBackendApplication</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
